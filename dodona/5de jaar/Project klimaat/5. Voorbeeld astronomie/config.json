@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Een uitgewerkte astronomieoefening als voorbeeld"
+    }
+  },
+  "type": "exercise",
+  "programming_language": "python",
+  "labels": [
+    "matplotlib",
+    "bestanden"
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  }
+}

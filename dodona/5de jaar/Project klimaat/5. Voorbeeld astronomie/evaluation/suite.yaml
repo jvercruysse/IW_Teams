@@ -1,0 +1,33 @@
+- tab: "Stereigenschappen"
+  testcases:
+  - stdin:
+  - stdout: 0       20
+1       15
+2      3,8
+3      3,2
+4      1,8
+5        6
+6     1,24
+7     1,10
+8        1
+9     0,93
+10    0,78
+11    0,69
+12    0,60
+13    0,21
+14    0,11
+Name: Massa, dtype: object
+0              34000
+1              31000
+2              12460
+3              10800
+4               7550
+5     Gamma Virginis
+6               6620
+7               5920
+8               5780
+...
+12              3800
+13              3120
+14              2800
+Name: Temp, dtype: object
